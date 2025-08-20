@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enauara Badin</title>
+    <link>https://www.enauara.dev.br/</link>
+    <description>Recent content on Enauara Badin</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Jul 2025 22:52:57 -0300</lastBuildDate>
+    <atom:link href="https://www.enauara.dev.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API de gerenciamento de academia</title>
+      <link>https://www.enauara.dev.br/posts/academia-1/</link>
+      <pubDate>Thu, 24 Jul 2025 22:52:57 -0300</pubDate>
+      <guid>https://www.enauara.dev.br/posts/academia-1/</guid>
+      <description>&lt;p&gt;Estou iniciando um projeto Backend com objetivo de estudar e aprofundar conhecimentos em desenvolvimento e demais tecnologias e ferramentas envolvidas, e habilidades de comunicação, escrita e organização.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/enauara/academia&#34;&gt;PROJETO NO GIT&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;O projeto será uma API de gerenciamento de academia.&#xA;Essa é uma academia fictícia, criada para estudo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Como funciona a academia:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aulas coletivas e personal, ambas necessário agendamento de horário e professor de preferência. Também podendo trazer personal que não seja funcionário da academia.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Quais as principais funcionalidades definidas até o momento:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
