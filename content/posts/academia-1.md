@@ -1,6 +1,6 @@
 +++
 date = '2025-07-24T22:52:57-03:00'
-draft = true
+draft = false
 title = 'API de gerenciamento de academia'
 author = "Enauara"
 +++
