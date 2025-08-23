@@ -1,9 +1,5 @@
 baseURL = 'https://www.enauara.dev.br'
+publishDir = "docs"
 languageCode = 'pt-br'
 title = 'Enauara Badin'
 theme = 'beautifulhugo'
-
-#[Params]
-#    author = "Enauara Badin."
-#    description = "Descricao teste"
-#    googleAnalytics = "G-K71X1MC0KG"
