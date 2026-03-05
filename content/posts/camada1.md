@@ -1,6 +1,6 @@
 +++
 date = '2026-03-04T23:18:57-03:00'
-draft = true
+draft = false
 title = 'Incidente de Camada 1: Decomposição do problema e pensamento sistêmico.'
 author = "Enauara"
 +++
