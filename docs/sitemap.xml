@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.enauara.dev.br/posts/academia-1/</loc>
-    <lastmod>2025-07-24T22:52:57-03:00</lastmod>
-  </url><url>
     <loc>https://www.enauara.dev.br/</loc>
-    <lastmod>2025-07-24T22:52:57-03:00</lastmod>
+    <lastmod>2026-03-06T23:20:24-03:00</lastmod>
+  </url><url>
+    <loc>https://www.enauara.dev.br/posts/camada1/</loc>
+    <lastmod>2026-03-06T23:20:24-03:00</lastmod>
   </url><url>
     <loc>https://www.enauara.dev.br/posts/</loc>
+    <lastmod>2026-03-06T23:20:24-03:00</lastmod>
+  </url><url>
+    <loc>https://www.enauara.dev.br/posts/academia-1/</loc>
     <lastmod>2025-07-24T22:52:57-03:00</lastmod>
   </url><url>
     <loc>https://www.enauara.dev.br/categories/</loc>

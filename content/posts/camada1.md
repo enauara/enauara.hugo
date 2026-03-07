@@ -1,11 +1,11 @@
 +++
-date = '2026-03-04T23:18:57-03:00'
+date = '2026-03-06T23:20:24-03:00'
 draft = false
 title = 'Incidente de Camada 1: Decomposição do problema e pensamento sistêmico.'
 author = "Enauara"
 +++
 
-Recentemente me peguei lembrando de um caso da época que eu trabalhava no provedor de internet. Um problema de quedas de clientes na rede de fibra óptica, mas bem diferente do que eu já havia vivenciado até aquele momento.
+Recentemente recordei um caso da época que eu trabalhava no provedor de internet. Um problema de quedas de clientes na rede de fibra óptica, mas bem diferente do que eu já havia vivenciado até aquele momento. Isso deve ter mais de 10 anos.
 
 **O cenário:**
 
@@ -17,18 +17,17 @@ A causa raíz? Uma ONU molhada. O caminho até a conclusão e solução exigiu d
 
 Primeiramente pensei em estratégias para quebrar o problema em partes menores, ir descartando possibilidades.
 
-1. Verificar os logs do equipamento central (OLT e servidor PPPoE):
+1. **Verificar os logs do equipamento central (OLT e servidor PPPoE):**
 Nada de diferente, apenas log de desconexão e conexão.
 
-2. Verificar o sinal óptico dos clientes:
+2. **Verificar o sinal óptico dos clientes:**
 Ao conferir o sinal óptico de alguns clientes foi identificado que estavam com um bom sinal, não sendo a causa das quedas. Descartando também rompimento de fibra, pois eles conectavam novamente.
 
-3. Verificar localização geográfica dos clientes:
+3. **Verificar localização geográfica dos clientes:**
 Para filtrar se é em uma determinada região e atuar em possíveis atenuações em alguma caixa de distribuição ou quedas/oscilações de energia.
 O problema estava ocorrendo em diversas regiões da cidade. Descartado problema em um local específico.
 
-4. Verificar ponto de conexão dos clientes no equipamento central (OLT):
-    
+4. **Verificar ponto de conexão dos clientes no equipamento central (OLT):**
     Foi identificado que todos os clientes que apresentavam problema estavam na mesma porta da OLT, nesse momento cheguei a um padrão entre eles e comecei a atuar com mais precisão.
 
     Trabalhei no splitter daquela porta da OLT, retirando um conector por vez, até que em um momento os clientes pararam de cair. Opa, identificado que algum cliente daquela porta do splitter estava "jogando sujeira" na rede. 

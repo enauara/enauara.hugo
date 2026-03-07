@@ -6,8 +6,15 @@
     <description>Recent content on Enauara Badin</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 24 Jul 2025 22:52:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 23:20:24 -0300</lastBuildDate>
     <atom:link href="https://www.enauara.dev.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incidente de Camada 1: Decomposição do problema e pensamento sistêmico.</title>
+      <link>https://www.enauara.dev.br/posts/camada1/</link>
+      <pubDate>Fri, 06 Mar 2026 23:20:24 -0300</pubDate>
+      <guid>https://www.enauara.dev.br/posts/camada1/</guid>
+      <description>&lt;p&gt;Recentemente recordei um caso da época que eu trabalhava no provedor de internet. Um problema de quedas de clientes na rede de fibra óptica, mas bem diferente do que eu já havia vivenciado até aquele momento. Isso deve ter mais de 10 anos.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;O cenário:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Na rede de fibra óptica, diversos clientes desconectavam e conectavam aleatoriamente sem um padrão específico de comportamento aparente.&lt;/p&gt;&#xA;&lt;p&gt;A causa raíz? Uma ONU molhada. O caminho até a conclusão e solução exigiu decomposição do problema, identificação de padrões, pensamento sistêmico e trabalho em equipe.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>API de gerenciamento de academia</title>
       <link>https://www.enauara.dev.br/posts/academia-1/</link>
